@@ -17,11 +17,11 @@
     <br>
 
     <label for="Acc/no"><b>Accountnumber</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="Acc/no" placeholder="Enter Accountnumber" name="psw" id="psw" required>
     <br>
 
     <label for="BankName"><b>BankName</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="BankName" placeholder="EnterBankName" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
